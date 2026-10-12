@@ -1,0 +1,9 @@
+TERVEX HACKATHON SUBMISSION
+
+1. Read README-WINDOWS.md for local Windows setup or Docker Compose instructions.
+2. Read docs/HACKATHON_DEMO_SCRIPT.md before presenting.
+3. Review docs/PITCH_AND_SUBMISSION.md and fill in the team-specific fields.
+4. Open submission/TerveX_Hackathon_Pitch.pptx and fill in team name, members, repository URL.
+5. Run scripts/smoke-test.ps1 with the backend running.
+
+Truthful demo boundary: listings, metrics and prices are illustrative. Reservation requests are saved for review; the prototype does not provision GPUs or process payments.
